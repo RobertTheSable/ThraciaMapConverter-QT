@@ -1,0 +1,12 @@
+*.pro.user
+*.o
+*.exe
+*.tmx
+*.bmp
+*.png
+*.jpg
+*.jpeg
+*.sfc
+*.smc
+*.bin
+
